@@ -3173,3 +3173,12 @@
 4/10/2025 | 4:27:03 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/10/2025 | 4:27:03 PM | INFO | Trying to activate mining on-chain for wallet: 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
 4/10/2025 | 4:27:10 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xac350d610a3131e793a83c844685fde74dc618e389cd28023a1cec17bb9a04f6 
+4/10/2025 | 8:22:26 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/10/2025 | 8:22:26 PM | INFO | Start process for wallet 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+4/10/2025 | 8:22:27 PM | INFO | Trying To Login for wallet: 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+4/10/2025 | 8:22:27 PM | INFO | Login successful... 
+4/10/2025 | 8:22:27 PM | INFO | Trying to check user info... 
+4/10/2025 | 8:22:28 PM | INFO | User ID: 102561419 | Twitter: @novazerlina | Total Points: 1200000 
+4/10/2025 | 8:22:28 PM | INFO | Trying to check user miner status... 
+4/10/2025 | 8:22:29 PM | INFO | Last mining time: 4/10/2025, 4:27:09 PM
+4/10/2025 | 8:22:29 PM | WARN | Mining already started, next mining time is: 4/11/2025, 4:27:09 PM
