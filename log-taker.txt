@@ -5054,3 +5054,16 @@
 5/13/2025 | 4:28:20 PM | INFO | Trying to check user miner status... 
 5/13/2025 | 4:28:25 PM | INFO | Last mining time: 5/13/2025, 4:27:21 AM
 5/13/2025 | 4:28:25 PM | WARN | Mining already started, next mining time is: 5/14/2025, 4:27:21 AM
+5/13/2025 | 8:24:08 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 8:24:09 PM | INFO | Start process for wallet 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+5/13/2025 | 8:24:09 PM | INFO | Trying To Login for wallet: 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+5/13/2025 | 8:24:10 PM | INFO | Login successful... 
+5/13/2025 | 8:24:10 PM | INFO | Trying to check user info... 
+5/13/2025 | 8:24:11 PM | INFO | User ID: 102561419 | Twitter: @novazerlina | Total Points: 1896000 
+5/13/2025 | 8:24:11 PM | INFO | Trying to check user miner status... 
+5/13/2025 | 8:24:36 PM | INFO | Last mining time: 5/12/2025, 1:51:18 AM
+5/13/2025 | 8:24:36 PM | INFO | Trying to start Mining for wallet: 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+5/13/2025 | 8:24:39 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+5/13/2025 | 8:24:39 PM | INFO | Trying to activate mining on-chain for wallet: 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+5/13/2025 | 8:24:40 PM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
+5/13/2025 | 8:24:40 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
