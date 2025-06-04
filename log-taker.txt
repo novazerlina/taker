@@ -6290,3 +6290,15 @@
 6/4/2025 | 8:30:21 AM | INFO | Trying to activate mining on-chain for wallet: 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
 6/4/2025 | 8:30:22 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 6/4/2025 | 8:30:22 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+6/4/2025 | 12:47:15 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/4/2025 | 12:47:15 PM | INFO | Start process for wallet 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+6/4/2025 | 12:47:16 PM | INFO | Trying To Login for wallet: 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+6/4/2025 | 12:47:17 PM | INFO | Login successful... 
+6/4/2025 | 12:47:17 PM | INFO | Trying to check user info... 
+6/4/2025 | 12:47:17 PM | INFO | User ID: 102561419 | Twitter: @novazerlina | Total Points: 2352000 
+6/4/2025 | 12:47:17 PM | INFO | Trying to check user miner status... 
+6/4/2025 | 12:47:18 PM | INFO | Last mining time: 6/3/2025, 8:31:36 AM
+6/4/2025 | 12:47:18 PM | INFO | Trying to start Mining for wallet: 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+6/4/2025 | 12:47:19 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/4/2025 | 12:47:19 PM | INFO | Trying to activate mining on-chain for wallet: 0x7f9A21dff2bEd688498CFEEEA718dc4Dc06fAe67 
+6/4/2025 | 12:47:25 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x4c6d83b5fd130f30141da230350ca7788100259f115f26085d99fdead34c1795 
